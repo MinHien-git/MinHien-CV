@@ -15645,3 +15645,12 @@ div#small-dialog iframe {
   display: inline-block;
   overflow: hidden;
 }
+#projects .card-group .card .card-title {
+  height: 3rem;
+}
+#projects .card-group .card .card-text {
+  height: 7rem;
+  word-wrap: break-word;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
